@@ -1,0 +1,12 @@
+{
+  "name": "wordgard-facet-reader-types",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "6.0.3",
+    "wordgard": "0.7.0"
+  }
+}
